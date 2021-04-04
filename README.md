@@ -5,6 +5,7 @@ The description of the repo Week_4_Autolib_Project is to process stations data t
 AUTOLIB DATA INVESTIGATION PROJECT
 
 There are 3 main deliverables in Autolib Repository:
+
 1.Python Notebook
 2.Data Report (Google Docs Document)
 3.JIRA Kanban Board
@@ -16,6 +17,7 @@ AutoLib project is a project dealing with data collected from Electric car stati
 Identify the most popular hour of the day for picking up a shared electric car (Bluecar)in the city of Paris over the month of April 2018.
 
 The project also contains a list of subsequent questions which explore the data further.They include:
+
 01 Identify the most popular hour of the day for picking up a shared electric car (Bluecar) in the city of Paris over the month of April 2018?
 02 What is the most popular hour for returning cars?
 03 What station is the most popular?Overall?At the most popular picking hour?
